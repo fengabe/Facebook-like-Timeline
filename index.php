@@ -14,8 +14,8 @@ $(document).ready(function() {
 
    $('#timelineblock').BlocksIt({
 	numOfCol: 2,
-	offsetX: 4,
-	offsetY: 4,
+	offsetX: 0,
+	offsetY: 5,
 	blockElement: 'div'
    });
 
@@ -79,41 +79,62 @@ function Arrows()
 	
 		<div class = "block">
 			<span id="edge"></span>
-			<p> 1 This is a test tweet for Twitter Timeline. First Tweet.</p>
+			<p> This is a test. First post.</p>
 		</div>
 
 		<div class = "block">
 			<span id="edge"></span>
 			<img src = "img1.jpg" class = "pic" />
-			<p> 2 Hello.</p>
+			<p> Blimey Messi's Hat-trick out of this world. </p>
+		</div>
+
+
+		<div class = "block">
+			<span id="edge"></span>
+			<p>How boring must it be to constantly try and come up with new stories regarding a certain striker who is at the Euros, and wont say anything.</p>
+			</div>
+
+
+		<div class = "block">
+			<span id="edge"></span>
+			<img src = "img2.jpg" class = "pic" />
+
+			<p> Thierry Henry - The Legend</p>
 		</div>
 
 		<div class = "block">
 			<span id="edge"></span>
-			<img src = "img1.jpg" class = "pic" />
-
-			<p> 3 5 TEAMtalk takes a look at six players who are tipped to become high on the lists of Europe's top clubs with starring performances at Euro 2012.5 TEAMtalk takes a look at six players who are tipped to become high on the lists of Europe's top clubs with starring performances at Euro 2012.</p>
-		</div>
+			<p>Pretty sure the Gooner Family is the best one on Twitter.</p>
+			</div>
 
 		<div class = "block">
 			<span id="edge"></span>
-			<p>5 TEAMtalk takes a look at six players who are tipped to become high on the lists of Europe's top clubs with starring performances at Euro 2012. 5 TEAMtalk takes a look at six players who are tipped to become high on the lists of Europe's top clubs with starring performances at Euro 2012. </p>
+			<p>Wenger commentating on all French games for French TV. Will be spending plenty of time with M'Vila and Girouds agents in hospitality box.</p>
+			</div>
+			
+			<div class = "block">
+			<span id="edge"></span>
+			<iframe class = "pic" src="http://www.youtube.com/embed/S2BSm4YZT-E" frameborder="0" allowfullscreen></iframe>
+			<p>Wonderful video.</p>
 		</div>
 
+		
 		<div class = "block">
 			<span id="edge"></span>
-			<p>5 TEAMtalk takes a look at six players who are tipped to become high on the lists of Europe's top clubs with starring performances at Euro 2012.</p>
+			<p>0 - Portugal have failed to win a game in 2012 : 2 draws & 2 losses, and only 1 goal scored. Breakdown.</p>
 		</div>
-
+		
 		<div class = "block">
 			<span id="edge"></span>
-			<p>6 TEAMtalk takes a look at six players who are tipped to become high on the lists of Europe's top clubs with starring performances at Euro 2012.</p>
+			<iframe class = "pic" src="http://www.youtube.com/embed/T9kF9RdiIrk" frameborder="0" allowfullscreen></iframe>
+			<p>Messi's 3rd goal.</p>
 		</div>
-
-<div class = "block">
+		
+	<div class = "block">
 			<span id="edge"></span>
-			<p>7 TEAMtalk takes a look at six players who are tipped to become high on the lists of Europe's top clubs with starring performances at Euro 2012.</p>
-		</div>
+			<p>Hmmm, I see the little Russian only seems to work in Europe. Can we not purchase some kind of plug converter for him?</p>
+			</div>
+
 
 	</div>
 	
