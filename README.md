@@ -2,4 +2,4 @@ This is a mock-up of the facebook timeline. The timeline theme/code is for perso
 the actual facebook timeline in anyway.
 
 
-P.S. The code doesn't use any facebook codebase.
+P.S. The code doesn't make use of any of the actual facebook codebase.
